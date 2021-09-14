@@ -2,7 +2,7 @@
 
 ***Master Thesis,<br>
 September 14th, 2021<br>
-University of Sheffield (DE)<br>
+University of Sheffield <br>
 Artificial Intelligence and Cybersecurity<br>***
 
 
